@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there and welcome to my profile!👋
+## - 🌱 I’m currently learning HTML 5
+## - 📫 How to reach me: N/A
+## - 😄 Pronouns: He/Him
+## -⚡ Fun fact: I have been learning code for a few years!
 <!--
 **WowzaTM/WowzaTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
